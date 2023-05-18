@@ -1,2 +1,0 @@
-# notes
-general notes
